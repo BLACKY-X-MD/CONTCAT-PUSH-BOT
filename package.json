@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Slnckyami/K-Baileys",
+    "@whiskeysockets/baileys": "npm:baileys-mod@^6.8.5",
     "axios": "^1.4.0",
     "chalk": "^5.3.0",
     "express": "^4.18.2",
