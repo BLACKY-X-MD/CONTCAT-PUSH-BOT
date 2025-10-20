@@ -17,6 +17,7 @@
     "moment-timezone": "latest",
     "dotenv": "latest",
     "node-cache": "^5.1.2",
+    "cheeri": "latest",
     "jimp": "latest",
     "pino": "^8.14.1",
     "socket.io": "^4.7.1"
